@@ -63,7 +63,7 @@ Y= A⊕B
 
 
 **PROGRAM**
-
+~~~
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
  Developed by:Kayalvizhi V M 
@@ -89,6 +89,7 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
     assign xnor_out = ~(a ^ b);   // XNOR gate
 
 endmodule
+~~~
 **Logic symbol & Truthtable**
 ![WFVX8Sw](https://github.com/user-attachments/assets/44b01e20-053d-4ae8-a59c-2ebce2b2c501)
 
